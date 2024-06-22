@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 #自己添加
 bitnami/minio
+minio/minio
