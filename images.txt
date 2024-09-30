@@ -9,3 +9,4 @@ xhofe/alist:latest
 bitnami/minio
 minio/minio
 whyour/qinglong
+gotson/komga
